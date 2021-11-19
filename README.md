@@ -1,4 +1,4 @@
-### Greetings! 👋
+### Greetings! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Eric and I am a junior developer from Philadelphia. I started my programming journey in the Ethereum blockchain space, learning the fundamentals of
 smart contracts using Solidity and TypeScript. After a brief exposure into the world of cryptocurrency and blockchain, I knew I wanted to gain more hands-on experience
