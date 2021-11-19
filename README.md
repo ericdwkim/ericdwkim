@@ -1,6 +1,6 @@
 ### Greetings! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
 
-My name is Eric Kim and I am a junior software developer. I was born in South Korea and am living in Pennsylvania. After a brief exposure into the world of cryptocurrency and blockchain, I knew I wanted to gain more hands-on experience with developing. Follow me on my journey! 
+My name is Eric Kim and I am a junior software developer. I was born in South Korea and am living in Pennsylvania. After a brief exposure into the world of cryptocurrency and blockchain, I knew I wanted to gain more hands-on experience with programming. Follow me on my journey! 
 
 Languages and Tools
 
