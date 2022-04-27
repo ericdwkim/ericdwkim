@@ -1,6 +1,6 @@
 ### Greetings! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
 
-My name is Eric Kim and I am an aspiring full-stack software engineer. I was born in South Korea and have been residing in Pennsylvania for most of my life. After a brief exposure into the world of cryptocurrency and blockchain, I knew I wanted to gain more hands-on experience with programming. Follow me on my journey! 
+My name is Eric Kim and I am an aspiring full-stack software engineer. After a brief exposure into the world of cryptocurrency and blockchain, I knew I wanted to gain more hands-on experience with programming. Currently @ [Aramark](https://www.aramark.com/home)<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_aramark_RGB.svg" width="100" height="100"> as a Junior Engineer on the ENABLE team. Follow me on my journey! 
 
 ### Languages and Tools
 
