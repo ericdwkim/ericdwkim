@@ -2,7 +2,6 @@
 
 My name is Eric Kim and I am an aspiring full-stack software engineer. After a brief exposure into the world of cryptocurrency and blockchain, I knew I wanted to gain more hands-on experience with programming. 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_aramark_RGB.svg" width="100" height="100">
 Currently @ [Aramark](https://www.aramark.com/home) as a Junior Engineer on the ENABLE development team. Follow me on my journey! 
 
 ### Languages and Tools
