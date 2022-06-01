@@ -1,4 +1,4 @@
-### Greetings! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="0.5px">  
+### Greetings!
 
 My name is Eric Kim and I am an aspiring full-stack software engineer. After a brief exposure into the world of cryptocurrency and blockchain, I knew I wanted to gain more hands-on experience with programming. 
 
