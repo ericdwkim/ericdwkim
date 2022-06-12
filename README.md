@@ -1,8 +1,6 @@
 ### Greetings!
 
-My name is Eric Kim and I am an aspiring full-stack software engineer. After a brief exposure into the world of cryptocurrency and blockchain, I knew I wanted to gain more hands-on experience with programming. 
-
-Currently @ [Aramark](https://www.aramark.com/home) as a Junior Engineer on the ENABLE development team. Follow me on my journey! 
+I'm Eric and I am a 27 year old bootcamp graduate. I absolutely love to learn and dive into complicated problems. I'm currently working @ [Aramark](https://www.aramark.com/home) as a Junior Engineer on the ENABLE development team. Follow me on my journey! 
 
 ### Languages and Tools
 
