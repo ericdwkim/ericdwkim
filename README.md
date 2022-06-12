@@ -1,6 +1,6 @@
 ### Greetings!
 
-I have over a year experience in software engineering. I'm currently working a hybrid role @ [Aramark](https://www.aramark.com/home)as a Junior Software Engineer / IT Technical Analyst. 
+I have over a year experience in software engineering. I'm currently working a hybrid role @ [Aramark](https://www.aramark.com/home) as a Junior Software Engineer / IT Technical Analyst. 
 
 ### Languages and Tools
 
