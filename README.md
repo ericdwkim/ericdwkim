@@ -1,6 +1,6 @@
 ### Greetings!
 
-I'm Eric and I am a 27 year old bootcamp graduate. I absolutely love to learn and dive into complicated problems. I'm currently working @ [Aramark](https://www.aramark.com/home) as a Junior Engineer on the ENABLE development team. Follow me on my journey! 
+I have over a year experience in software engineering. I'm currently working a hybrid role @ [Aramark](https://www.aramark.com/home)as a Junior Software Engineer / IT Technical Analyst. 
 
 ### Languages and Tools
 
