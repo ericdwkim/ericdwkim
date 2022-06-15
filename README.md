@@ -1,6 +1,6 @@
 ### Greetings!
 
-I have over a year experience in data analysis and I'm currently working as a Technical Analyst at @ [Aramark](https://www.aramark.com/home). I am actively pursuing to become a Data Scientist.
+I have over a year experience in data analysis and I'm currently working as a Technical Analyst at @ [Aramark](https://www.aramark.com/home).
 
 ### Languages and Tools
 
