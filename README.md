@@ -1,6 +1,8 @@
 ### Greetings!
 
-I have over a year experience in data analysis and I'm currently working as a Technical Analyst at @ [Aramark](https://www.aramark.com/home).
+Data analyst with industry experience in Python, SQL, MongoQL, and QlikSense who is passionate about big data and doesn’t shy away from technical challenges. I love breaking down complicated problems into its simplest parts and coming up with viable solutions.
+In my spare time, I like to train jiu-jitsu, go on long hikes, and snowboard in the winter. I consider myself a forever student of life and am always willing to learn and grow. 
+
 
 ### Languages and Tools
 
