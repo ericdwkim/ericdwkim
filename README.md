@@ -24,5 +24,5 @@ Interests in AI, Big Data, ML, Web3, jiu-jitsu, snowboarding, and climbing.
   
 <a href="https://www.linkedin.com/in/ericdwkim/">
   <img align="left" alt="LinkedIn" width="50px"
-       src="https://commons.wikimedia.org/wiki/File:LinkedIn_Logo.svg"/>
+       src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"/>
   </a>
