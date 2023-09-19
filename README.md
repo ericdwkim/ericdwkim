@@ -19,10 +19,10 @@ Interests in AI, Big Data, ML, Web3, jiu-jitsu, snowboarding, and climbing.
 
 <a href="https://twitter.com/ericdwkim">
   <img align="left" alt="Twitter" width="50px"
-       src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
+       src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg"/>
   </a>
   
 <a href="https://www.linkedin.com/in/ericdwkim/">
   <img align="left" alt="LinkedIn" width="50px"
-       src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
+       src="https://commons.wikimedia.org/wiki/File:LinkedIn_Logo.svg"/>
   </a>
